@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "gatsby-plugin-postcss": "^4.13.0",
+    "tailwindcss": "^2.2.14"
+  }
+}
