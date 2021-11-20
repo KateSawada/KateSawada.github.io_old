@@ -5,6 +5,7 @@ import { StaticImage } from "gatsby-plugin-image"
 import Layout from "../components/layout"
 
 /**
+ * 各種コマンド documents/project/portfolio/portfolio で実行
  * デプロイ: yarn run deploy
  * ローカルサーバー gatsby develop
  */
