@@ -10,7 +10,7 @@ import Layout from "../components/layout"
  * ローカルサーバー gatsby develop
  * 
  * https://qiita.com/mishiwata1015/items/ac65efbabb4400fd95bf#%E4%BD%9C%E6%88%90%E3%81%97%E3%81%9F%E9%9D%99%E7%9A%84%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92-github-pages-%E3%81%A8%E3%81%97%E3%81%A6%E5%85%AC%E9%96%8B
- * <tr><td>2021.11</td><td>JPHACKS2021 プラチナスポンサー賞 バンダイナムコ研究所賞</td></tr>
+ * 
  */
 
 const IndexPage = () => (
@@ -58,7 +58,7 @@ const IndexPage = () => (
             <table class="xl:mr-56 xl:ml-56 lg:mr-40 lg:ml-40 mr-10 ml-10">
               <tr><td>2021.6</td><td>Tongaliビジネスプランコンテスト2021 大和証券賞</td></tr>
               <tr><td>2021.8</td><td>お盆deハッカソン 協賛企業賞</td></tr>
-              
+              <tr><td>2021.11</td><td>JPHACKS2021 プラチナスポンサー賞 バンダイナムコ研究所賞</td></tr>
             </table>
           </div>
         </div>
