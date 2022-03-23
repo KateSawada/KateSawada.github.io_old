@@ -30,9 +30,10 @@ const IndexPage = () => (
               <tr><td>2019.3</td><td>愛知県立時習館高校 卒業</td></tr>
               <tr><td>2019.4</td><td>名古屋大学 情報学部 コンピュータ科学科 入学</td></tr>
               <tr><td>2020.1 - 2021.3</td><td>株式会社キャリアビジョン 社内向けツール作成アルバイト</td></tr>
-              <tr><td>2021.4 - </td><td>名古屋大学 空手同好会 主将</td></tr>
+              <tr><td>2021.4 - 2022.3</td><td>名古屋大学 空手同好会 主将</td></tr>
               <tr><td>2021.4 - </td><td>名古屋大学卓越大学院 未来エレクトロニクス創成加速DII協働大学院プログラム チームopensesame</td></tr>
               <tr><td>2021.5 - </td><td>東海国立大学機構 情報推進部 情報基盤課 情報システムグループ 技術補佐員</td></tr>
+              <tr><td>2021.11 - </td><td>名古屋大学情報学研究科 知能システム学専攻 長尾研究室 研究補助員</td></tr>
             </table>
           </div>
         </div>
@@ -75,7 +76,7 @@ const IndexPage = () => (
               <li>C#</li>
               <li>VB.Net</li>
               
-              <li class="text-xl p-4">- Hobby -</li>
+              <li class="text-xl p-4">- Hobbies -</li>
               <li>ピアノ(2006 - )</li>
               <li>空手(2008 - )</li>
             
