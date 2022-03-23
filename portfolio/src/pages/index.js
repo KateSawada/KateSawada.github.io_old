@@ -43,10 +43,10 @@ const IndexPage = () => (
           <div>
             <table>
               <tr>
-               <a class="inline" href="https://github.com/KateSawada" target="_blank" rel="noopener noreferrer">GitHub</a>
+               <a class="inline hover:text-green-500" href="https://github.com/KateSawada" target="_blank" rel="noopener noreferrer">GitHub</a>
               </tr>
               <tr>
-                <a class="inline" href="https://qiita.com/KateSawada" target="_blank" rel="noopener noreferrer">Qiita</a>
+                <a class="inline hover:text-green-500" href="https://qiita.com/KateSawada" target="_blank" rel="noopener noreferrer">Qiita</a>
               </tr>
             </table>
 
@@ -69,12 +69,33 @@ const IndexPage = () => (
           <div>
             <ul class="xl:mr-56 xl:ml-56 lg:mr-40 lg:ml-40 mr-10 ml-10">
               <li class="text-xl p-4">- Development -</li>
-              <li>Python</li>
-              <li>C/C++</li>
-              <li>PHP/Laravel</li>
-              <li>Dart/Flutter</li>
-              <li>C#</li>
-              <li>VB.Net</li>
+              <li>
+                <StaticImage src="../images/lang-icons/php.svg" alt="" height={22}/>
+                PHP/
+                <StaticImage src="../images/lang-icons/laravel.svg" alt="" height={22}/>
+                Laravel
+              </li>
+              <li>
+                <StaticImage src="../images/lang-icons/dart.svg" alt="" height={22}/>
+                Dart/
+                <StaticImage src="../images/lang-icons/flutter.svg" alt="" height={22}/>
+                Flutter
+              </li>
+              <li>
+                <StaticImage src="../images/lang-icons/python.svg" alt="Python" height={22}/>
+                Python
+              </li>
+              <li>
+                <StaticImage src="../images/lang-icons/c-sharp.svg" alt="" height={22}/>
+                C#/
+                <StaticImage src="../images/lang-icons/unity.svg" alt="" height={22}/>
+                Unity
+              </li>
+              <li>
+                <StaticImage src="../images/lang-icons/c.svg" alt="" height={22}/>
+                C/C++
+              </li>
+              
               
               <li class="text-xl p-4">- Hobbies -</li>
               <li>ピアノ(2006 - )</li>
