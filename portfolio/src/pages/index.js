@@ -27,13 +27,22 @@ const IndexPage = () => (
           <p class="text-4xl m-4">HISTORY</p>
           <div class="flex items-baseline">
             <table class="xl:mr-56 xl:ml-56 lg:mr-40 lg:ml-40 mr-10 ml-10">
-              <tr><td>2019.3</td><td>愛知県立時習館高校 卒業</td></tr>
-              <tr><td>2019.4</td><td>名古屋大学 情報学部 コンピュータ科学科 入学</td></tr>
               <tr><td>2020.1 - 2021.3</td><td>株式会社キャリアビジョン 社内向けツール作成アルバイト</td></tr>
-              <tr><td>2021.4 - 2022.3</td><td>名古屋大学 空手同好会 主将</td></tr>
-              <tr><td>2021.4 - </td><td>名古屋大学卓越大学院 未来エレクトロニクス創成加速DII協働大学院プログラム チームopensesame</td></tr>
               <tr><td>2021.5 - </td><td>東海国立大学機構 情報推進部 情報基盤課 情報システムグループ 技術補佐員</td></tr>
               <tr><td>2021.11 - </td><td>名古屋大学情報学研究科 知能システム学専攻 長尾研究室 研究補助員</td></tr>
+              <tr><td>2022.3 - </td><td>アイクリスタル株式会社 ソフトウェアエンジニア インターン</td></tr>
+            </table>
+          </div>
+        </div>
+
+        <div class="p-8v ">
+          <p class="text-4xl m-4">EDUCATION</p>
+          <div class="flex items-baseline">
+            <table class="xl:mr-56 xl:ml-56 lg:mr-40 lg:ml-40 mr-10 ml-10">
+              <tr><td>2019.3</td><td>愛知県立時習館高校 卒業</td></tr>
+              <tr><td>2019.4</td><td>名古屋大学 情報学部 コンピュータ科学科 入学</td></tr>
+              <tr><td>2021.4 - 2022.3</td><td>名古屋大学 空手同好会 主将</td></tr>
+              <tr><td>2021.4 - </td><td>名古屋大学卓越大学院 未来エレクトロニクス創成加速DII協働大学院プログラム チームopen sesame</td></tr>
             </table>
           </div>
         </div>
@@ -57,9 +66,10 @@ const IndexPage = () => (
           <p class="text-4xl m-4">AWARDS</p>
           <div class="flex items-baseline">
             <table class="xl:mr-56 xl:ml-56 lg:mr-40 lg:ml-40 mr-10 ml-10">
-              <tr><td>2021.6</td><td>Tongaliビジネスプランコンテスト2021 大和証券賞</td></tr>
+              <tr><td>2021.6</td><td>Tongaliビジネスプランコンテスト2021 チームSnitch 大和証券賞</td></tr>
               <tr><td>2021.8</td><td>お盆deハッカソン 協賛企業賞</td></tr>
               <tr><td>2021.11</td><td>JPHACKS2021 プラチナスポンサー賞 バンダイナムコ研究所賞</td></tr>
+              <tr><td>2022.6</td><td>Tongaliビジネスプランコンテスト2022 チームopen sesame 優秀賞 & 名古屋銀行賞 & 愛知県信用保証協会賞</td></tr>
             </table>
           </div>
         </div>
@@ -104,13 +114,8 @@ const IndexPage = () => (
             </ul>
           </div>
         </div>
-  
-
-
 
       </div>
-
-
     </div>
     
 
