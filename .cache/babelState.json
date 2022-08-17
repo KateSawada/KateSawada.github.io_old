@@ -7,9 +7,9 @@
           "options": {}
         },
         {
-          "name": "/mnt/hdd/keito/documents/project/portfolio/node_modules/gatsby-plugin-image/dist/babel-plugin-parse-static-images.js",
+          "name": "/mnt/hdd/keito/documents/project/portfolio_kai/node_modules/gatsby-plugin-image/dist/babel-plugin-parse-static-images.js",
           "options": {
-            "cacheDir": "/mnt/hdd/keito/documents/project/portfolio/.cache/caches/gatsby-plugin-image"
+            "cacheDir": "/mnt/hdd/keito/documents/project/portfolio_kai/.cache/caches/gatsby-plugin-image"
           }
         },
         {
@@ -18,21 +18,21 @@
           "options": {}
         },
         {
-          "name": "/mnt/hdd/keito/documents/project/portfolio/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
+          "name": "/mnt/hdd/keito/documents/project/portfolio_kai/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
           "options": {}
         },
         {
-          "name": "/mnt/hdd/keito/documents/project/portfolio/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
+          "name": "/mnt/hdd/keito/documents/project/portfolio_kai/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
           "options": {}
         },
         {
-          "name": "/mnt/hdd/keito/documents/project/portfolio/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
+          "name": "/mnt/hdd/keito/documents/project/portfolio_kai/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
           "options": {}
         }
       ],
       "presets": [
         {
-          "name": "/mnt/hdd/keito/documents/project/portfolio/node_modules/@babel/preset-typescript/lib/index.js",
+          "name": "/mnt/hdd/keito/documents/project/portfolio_kai/node_modules/@babel/preset-typescript/lib/index.js",
           "options": {
             "plugins": [],
             "allExtensions": false,
@@ -53,27 +53,27 @@
           "options": {}
         },
         {
-          "name": "/mnt/hdd/keito/documents/project/portfolio/node_modules/gatsby-plugin-image/dist/babel-plugin-parse-static-images.js",
+          "name": "/mnt/hdd/keito/documents/project/portfolio_kai/node_modules/gatsby-plugin-image/dist/babel-plugin-parse-static-images.js",
           "options": {
-            "cacheDir": "/mnt/hdd/keito/documents/project/portfolio/.cache/caches/gatsby-plugin-image"
+            "cacheDir": "/mnt/hdd/keito/documents/project/portfolio_kai/.cache/caches/gatsby-plugin-image"
           }
         },
         {
-          "name": "/mnt/hdd/keito/documents/project/portfolio/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
+          "name": "/mnt/hdd/keito/documents/project/portfolio_kai/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
           "options": {}
         },
         {
-          "name": "/mnt/hdd/keito/documents/project/portfolio/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
+          "name": "/mnt/hdd/keito/documents/project/portfolio_kai/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
           "options": {}
         },
         {
-          "name": "/mnt/hdd/keito/documents/project/portfolio/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
+          "name": "/mnt/hdd/keito/documents/project/portfolio_kai/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
           "options": {}
         }
       ],
       "presets": [
         {
-          "name": "/mnt/hdd/keito/documents/project/portfolio/node_modules/@babel/preset-typescript/lib/index.js",
+          "name": "/mnt/hdd/keito/documents/project/portfolio_kai/node_modules/@babel/preset-typescript/lib/index.js",
           "options": {
             "plugins": [],
             "allExtensions": false,
@@ -94,27 +94,27 @@
           "options": {}
         },
         {
-          "name": "/mnt/hdd/keito/documents/project/portfolio/node_modules/gatsby-plugin-image/dist/babel-plugin-parse-static-images.js",
+          "name": "/mnt/hdd/keito/documents/project/portfolio_kai/node_modules/gatsby-plugin-image/dist/babel-plugin-parse-static-images.js",
           "options": {
-            "cacheDir": "/mnt/hdd/keito/documents/project/portfolio/.cache/caches/gatsby-plugin-image"
+            "cacheDir": "/mnt/hdd/keito/documents/project/portfolio_kai/.cache/caches/gatsby-plugin-image"
           }
         },
         {
-          "name": "/mnt/hdd/keito/documents/project/portfolio/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
+          "name": "/mnt/hdd/keito/documents/project/portfolio_kai/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
           "options": {}
         },
         {
-          "name": "/mnt/hdd/keito/documents/project/portfolio/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
+          "name": "/mnt/hdd/keito/documents/project/portfolio_kai/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
           "options": {}
         },
         {
-          "name": "/mnt/hdd/keito/documents/project/portfolio/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
+          "name": "/mnt/hdd/keito/documents/project/portfolio_kai/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
           "options": {}
         }
       ],
       "presets": [
         {
-          "name": "/mnt/hdd/keito/documents/project/portfolio/node_modules/@babel/preset-typescript/lib/index.js",
+          "name": "/mnt/hdd/keito/documents/project/portfolio_kai/node_modules/@babel/preset-typescript/lib/index.js",
           "options": {
             "plugins": [],
             "allExtensions": false,
@@ -135,27 +135,27 @@
           "options": {}
         },
         {
-          "name": "/mnt/hdd/keito/documents/project/portfolio/node_modules/gatsby-plugin-image/dist/babel-plugin-parse-static-images.js",
+          "name": "/mnt/hdd/keito/documents/project/portfolio_kai/node_modules/gatsby-plugin-image/dist/babel-plugin-parse-static-images.js",
           "options": {
-            "cacheDir": "/mnt/hdd/keito/documents/project/portfolio/.cache/caches/gatsby-plugin-image"
+            "cacheDir": "/mnt/hdd/keito/documents/project/portfolio_kai/.cache/caches/gatsby-plugin-image"
           }
         },
         {
-          "name": "/mnt/hdd/keito/documents/project/portfolio/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
+          "name": "/mnt/hdd/keito/documents/project/portfolio_kai/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
           "options": {}
         },
         {
-          "name": "/mnt/hdd/keito/documents/project/portfolio/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
+          "name": "/mnt/hdd/keito/documents/project/portfolio_kai/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
           "options": {}
         },
         {
-          "name": "/mnt/hdd/keito/documents/project/portfolio/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
+          "name": "/mnt/hdd/keito/documents/project/portfolio_kai/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
           "options": {}
         }
       ],
       "presets": [
         {
-          "name": "/mnt/hdd/keito/documents/project/portfolio/node_modules/@babel/preset-typescript/lib/index.js",
+          "name": "/mnt/hdd/keito/documents/project/portfolio_kai/node_modules/@babel/preset-typescript/lib/index.js",
           "options": {
             "plugins": [],
             "allExtensions": false,
