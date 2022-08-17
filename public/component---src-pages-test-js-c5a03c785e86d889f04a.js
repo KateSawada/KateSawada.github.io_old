@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[672],{235:function(e,t,a){a.r(t);var r=a(5007);t.default=function(){return r.default.createElement("div",null,r.default.createElement("h1",{className:"h-screen flex items-center justify-center text-4xl transform hover:scale-150 hover:rotate-45 hover:skew-y-12 hover:-skew-y-12 transition duration-300 ease-in-out"},"Hello tailwindCSS"))}}}]);
+//# sourceMappingURL=component---src-pages-test-js-c5a03c785e86d889f04a.js.map
